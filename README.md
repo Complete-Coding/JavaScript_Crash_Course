@@ -1,4 +1,4 @@
-# JavaScript_in_3_Hours_Youtube
+# JavaScript Crash Course
 
 https://youtu.be/ZS1C8z7horw
 
